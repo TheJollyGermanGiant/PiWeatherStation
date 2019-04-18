@@ -9,3 +9,4 @@ goals:
 4.5 - Have local weather report posted to website to compare.
 5 - ???
 6 - profit
+
