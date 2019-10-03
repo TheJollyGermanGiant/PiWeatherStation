@@ -9,11 +9,6 @@ goals:
 
 3 - Create way to have the sensor outside.
 
-4 - Set up website to view real time data from anywhere.
+4 - Add to website to view real time data from anywhere.
 
 4.5 - Have local weather report posted to website to compare.
-
-5 - ???
-
-6 - profit
-
