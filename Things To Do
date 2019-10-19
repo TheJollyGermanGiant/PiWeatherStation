@@ -4,3 +4,7 @@ Breadboad the sensor and pi to analyze data from sensor.
 if it works, then solder the components.
 design housing for the pi
 figure out how to keep it outdoors and safe from the elements.
+
+
+
+github library for sensor module - https://github.com/adafruit/Adafruit_Si702
