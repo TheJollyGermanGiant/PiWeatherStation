@@ -11,4 +11,6 @@ goals:
 
 4 - Add to website to view real time data from anywhere.
 
+    -Figure out how to interface the weather station with the sever pi.
+
 4.5 - Have local weather report posted to website to compare.
