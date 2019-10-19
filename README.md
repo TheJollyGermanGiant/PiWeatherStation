@@ -14,3 +14,5 @@ goals:
     -Figure out how to interface the weather station with the sever pi.
 
 4.5 - Have local weather report posted to website to compare.
+
+5 - Keep track of data over month/year to "forcast" weather
