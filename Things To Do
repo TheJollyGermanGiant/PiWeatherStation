@@ -1,0 +1,6 @@
+Find documentation on the temperature and humidity sensors.
+Write functions to retrieve sensor data and make it human readable.
+Breadboad the sensor and pi to analyze data from sensor.
+if it works, then solder the components.
+design housing for the pi
+figure out how to keep it outdoors and safe from the elements.
