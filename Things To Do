@@ -1,4 +1,4 @@
-Find documentation on the temperature and humidity sensors.
+Find documentation on the temperature and humidity sensors. (Adafruit Si7021)
 Write functions to retrieve sensor data and make it human readable.
 Breadboad the sensor and pi to analyze data from sensor.
 if it works, then solder the components.
